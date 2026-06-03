@@ -1,0 +1,6 @@
+{
+  "name": "Al-Jarabee Platform",
+  "description": "An advanced, glassy educational platform designed for high school secondary stages with bilingual support, user registration, student directory file, and interactive subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
